@@ -1,0 +1,23 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "Used to study for final",
+  "main": "index.js",
+  "dependencies": {
+    "node": "^13.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VColeman-games/FinalStudy.git"
+  },
+  "author": "Valencia Coleman <coleman_valencia@columbusstate.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VColeman-games/FinalStudy/issues"
+  },
+  "homepage": "https://github.com/VColeman-games/FinalStudy#readme"
+}
