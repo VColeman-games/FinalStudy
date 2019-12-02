@@ -2,7 +2,7 @@
   "name": "study",
   "version": "1.0.0",
   "description": "Used to study for final",
-  "main": "index.js",
+  "main": "app.js",
   "dependencies": {
     "node": "^13.1.0"
   },
